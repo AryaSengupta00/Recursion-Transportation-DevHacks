@@ -26,6 +26,11 @@ Add api key in geolocation.js
 Add sample image file in process.py
 
 
+### Mockup
+
+![Mockup](Mockup.jpg)
+
+
 ### Team Members
 ----------------------------------
 
