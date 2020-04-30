@@ -22,10 +22,8 @@ This would give the people who are travelling in the same route. When a user 1 i
 
 
 #### Technical Description
-
-An overview of 
-* What technologies/versions were used
-* Setup/Installations required to run the solution
+Add api key in geolocation.js
+Add sample image file in process.py
 
 
 ### Team Members
