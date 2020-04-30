@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>public transport facilities</title>
+  
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+  <link rel="stylesheet" type="text/css" href="text2.css">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light ">
+  <a class="navbar-brand" href="#"><i class="fas fa-map-marked-alt" style="font-size: 24px;color: green;text-shadow:2px 2px 4px #000000;"></i>  HOME</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="#"><i class="fa fa-bus" aria-hidden="true"></i> BOOK NOW </a>
+      </li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right ">
+      <li><p class="space"><a class="nav-link" style= "text-decoration: none;" href="#">Sign Up <i class="fa fa-user-plus"></i></a></p></li>
+      <li><p class="space"><a class="nav-link" style=" text-decoration: none;" href="#">Login <i class="fa fa-user"></i></a></p></li>
+    </ul>
+    
+  </div>
+</nav>
+<div class="dropdown">
+  <button class="dropbtn">Transport Facilities  <i class="fa fa-caret-down fa-lg" aria-hidden="true" ></i>
+</button>
+  <div class="dropdown-content">
+  <a href="#">Driving</a>
+  <a href="#">Get a Ride</a>
+  <a href="#">Public Transport</a>
+  </div>
+</div>
+
+
+
+<div style="padding: 20px">
+<form action="/action_page.php">
+  <div class="form-group">
+    <label for="currloc"><b> PICKUP :</b></label>
+    <input type="text" class="form-control" placeholder="current location" id="currloc">
+  </div>
+  <div class="form-group">
+    <label for="desti"><b>DESTINATION :</b></label>
+    <input type="text" class="form-control" placeholder="destimation" id="desti" col>
+  </div>
+    <button type="button" class="btn btn-success">Search</button>
+</form>
+
+</div>
+</body>
+</html>
