@@ -13,7 +13,7 @@ To make public transport smart and comfortable.
 ----------------------------------
 
 #### Architecture Diagram
-
+![Architecture](IMG-20200430-WA0000.jpg)
 
 
 #### Technical Description
