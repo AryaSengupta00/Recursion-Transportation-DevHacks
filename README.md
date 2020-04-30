@@ -1,20 +1,20 @@
-## Team Name - Domain Name
-
-The participants are required to use this repository as a template and create a private Github repository under their own username (Single repository per team). The following created sections in this README.md need to be duly filled, highlighting the denoted points for the solution/implementation. Please feel free to create further sub-sections in this markdown, the idea is to understand the gist of the components in a singular document.
+## Recursion - Transport
+-Arya Sengupta
+-Prithwish Mandal
+-Monimoy Pal
+-Arnab Sarkar
 
 ### Project Overview
 ----------------------------------
-
-A brief description of 
-* What problem did the team try to solve
-* What is the proposed solution
+Promote public transport and carpooling.
+To make public transport smart and comfortable.
 
 ### Solution Description
 ----------------------------------
 
 #### Architecture Diagram
 
-Affix an image of the flow diagram/architecture diagram of the solution
+
 
 #### Technical Description
 
@@ -26,4 +26,7 @@ An overview of
 ### Team Members
 ----------------------------------
 
-List of team member names and email IDs
+-Arya Sengupta, 1829047@kiit.ac.in
+-Prithwish Mandal, 1829079@kiit.ac.in
+-Monimoy Pal, 1829069@kiit.ac.in
+-Arnab Sarkar, 1829045@kiit.ac.in
